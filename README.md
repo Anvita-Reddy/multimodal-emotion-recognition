@@ -40,3 +40,7 @@ Cross-modal analysis highlights the benefits of combining multiple methods for m
 
 
 ### Feel free to contribute or reach out with any questions!
+## Project Note
+This project was completed as a team final-year college project.
+I contributed to model development, experimentation, and evaluation across image, audio, and text modalities.
+The original repository and initial implementation were created by a teammate.
